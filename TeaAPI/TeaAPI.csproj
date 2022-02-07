@@ -1,7 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>TeaAPI-682528a5-c77f-4a8c-9b33-536d88df57fd</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
